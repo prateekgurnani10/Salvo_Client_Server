@@ -16,5 +16,10 @@ namespace pa8_C00124478_C00012875
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\Prateek\Desktop\VS CODE projects\salvo-game\pa8_C00124478_C00012875\pa8
 C:\Users\Prateek\Desktop\VS CODE projects\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.csproj.CoreCompileInputs.cache
 C:\Users\Prateek\Desktop\VS CODE projects\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.exe
 C:\Users\Prateek\Desktop\VS CODE projects\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.pdb
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\bin\Debug\pa8_C00124478_C00012875.exe.config
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\bin\Debug\pa8_C00124478_C00012875.exe
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\bin\Debug\pa8_C00124478_C00012875.pdb
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.csprojAssemblyReference.cache
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.Form1.resources
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.Properties.Resources.resources
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.csproj.GenerateResource.cache
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.exe
+C:\Users\aaron\Desktop\Repos\school\SalvoProj\salvo-game\pa8_C00124478_C00012875\pa8_C00124478_C00012875\obj\Debug\pa8_C00124478_C00012875.pdb
